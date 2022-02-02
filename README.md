@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ZihanRen
-- 👀 I’m interested in deep learning.
-- 🌱 I’m currently a phd candidate in Penn State University
-- 💞️ I’m open to collaboration
+- 🌱 I’m currently a phd candidate at Penn State University
 - 📫 Reach me through email: rtopaz2018@gmail.com
 
 
