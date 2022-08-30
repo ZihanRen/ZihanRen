@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ZihanRen
 - 🌱 I’m currently a phd candidate at Penn State University
-- 📫 Reach me through email: rtopaz2018@gmail.com
+- 📫 Reach me through email: zihanren.ds@gmail.com
+
 
 
 <!---
