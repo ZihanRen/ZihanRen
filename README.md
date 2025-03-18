@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZihanRen
-- 🌱 I’m currently a phd candidate at Penn State University
+- 🌱 I’m currently a research assistant at Penn State University
 - 📫 Reach me through email: zihanren.ds@gmail.com
 
 
