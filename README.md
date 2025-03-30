@@ -1,4 +1,3 @@
-## About Me
 Hi there, I'm Zihan Ren, a recent PhD graduate from Penn State. I am in the concentrated evolution of building neural nets, productive AI workflows, and my knowledge base. My latest research is available at [PoreTransformer](https://github.com/ZihanRen/poretransformer)
 
 
