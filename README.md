@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @ZihanRen
-- 🌱 I’m currently a research assistant at Penn State University
-- 📫 Reach me through email: zihanren.ds@gmail.com
+# Hi there, I'm Zihan Ren. A recent PhD graduate from Penn State 👋
+
+## About Me
+I am in the concentrated evolution of building neural nets, productive AI workflows, and my knowledge base. My latest research is available at [PoreTransformer](https://github.com/ZihanRen/poretransformer)
 
 
 
